@@ -14,10 +14,28 @@ The system simulates a real-world AV management platform where staff schedules a
 
 ---
 
-## Technologies Used
+# Running the Application
 
-- Python 3.11
+### Prerequisites
+
+- Python 3.11 or newer
 - Streamlit
 - Pandas
-- JSON
 
+### Install Dependencies
+
+```bash
+pip install streamlit pandas
+```
+
+### Start the Application
+
+```bash
+streamlit run app.py
+```
+
+If the `streamlit` command is not recognized, run:
+
+```bash
+python -m streamlit run app.py
+```
