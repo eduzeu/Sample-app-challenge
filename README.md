@@ -30,6 +30,21 @@ pip install streamlit pandas
 
 ### Start the Application
 
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/eduzeu/Sample-app-challenge.git
+cd Sample-app-challenge
+```
+
+Alternatively, you can download the repository as a ZIP file:
+
+1. Open: https://github.com/eduzeu/Sample-app-challenge
+2. Click the green **Code** button.
+3. Select **Download ZIP**.
+4. Extract the folder and open it in your preferred IDE.
+
+
 ```bash
 streamlit run app.py
 ```
