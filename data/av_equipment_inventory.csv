@@ -1,0 +1,4 @@
+device_id,device_name,device_type,location,status
+projector_1,Epson Projector,Projector,Room A,Available
+display_1,Samsung Display,Display,Lobby,In Use
+mic_1,Shure Mic,Microphone,Auditorium,Available

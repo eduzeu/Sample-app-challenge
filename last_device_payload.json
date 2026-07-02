@@ -1,0 +1,6 @@
+{
+    "command": "mute",
+    "device": "mic_1",
+    "triggered_by": "manager",
+    "timestamp": "2026-07-02T11:30:26.501858"
+}

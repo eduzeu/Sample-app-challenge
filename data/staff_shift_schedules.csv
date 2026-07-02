@@ -1,0 +1,4 @@
+shift_id,staff_name,role,shift_date,start_time,end_time,assigned_device_id
+S001,Ana Rivera,Technician,2026-07-03,08:00,12:00,projector_1
+S002,Martin Ramirez,Technician,2026-07-03,12:00,16:00,display_1
+S003,Ricardo Rodriguez,Manager,2026-07-03,09:00,17:00,mic_1
